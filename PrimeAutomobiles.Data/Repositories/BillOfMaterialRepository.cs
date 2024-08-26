@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PrimeAutomobiles.Data.Models;
-using PrimeAutomobiles.Data.PrimeAutomobiles.Data;
 using PrimeAutomobiles.Data.Repositories.Interfaces;
 using System.Collections.Generic;
 using System.Threading.Tasks;
